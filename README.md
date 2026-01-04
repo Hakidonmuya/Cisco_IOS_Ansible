@@ -9,7 +9,7 @@ Automates configuration of Cisco 4200 Series routers, that i named router2 and r
 <br> ⟡ Internet access; <br> 
 <br> ⟡ Routers must run an IOS version compatible with the network_cli connection; <br> 
 
-## Note: To use the script, ensure 'inventory.yml' is correctly configured with router IPs and credentials! ##
+<br> Note: To use the script, ensure 'inventory.yml' is correctly configured with router IPs and credentials! <br>
 
 ## File Structure ##
 <br> ⟡ inventory.yml: Defines the router inventory with connection details; <br>
@@ -25,24 +25,24 @@ Automates configuration of Cisco 4200 Series routers, that i named router2 and r
 
 ## Use ##
 # ➨ ⋆˙⟡ If using Windows (please dont):
-<br> ⁰ Install Ubuntu from the Microsoft Store <br>
-<br> ¹ Navigate to cd ~/ansible <br>
-<br> ² If not present, create a virtual environment 'python3 -m venv venv.' <br>
-<br> ³ Activate the virtual environment 'source venv/bin/activate.' <br>
-<br> ⁴ Install dependencies 'pip install -r requirements.txt.' <br>
-<br> ⁵ Verify that the 'inventory.yml' file contains the desired IPs and credentials for the routers <br>
-<br> ⁶ Apply the playbook './run_playbook.sh' <br>
+<br> 𝟎 Install Ubuntu from the Microsoft Store <br>
+<br> 𝟏 Navigate to cd ~/ansible <br>
+<br> 𝟐 If not present, create a virtual environment 'python3 -m venv venv.' <br>
+<br> 𝟑 Activate the virtual environment 'source venv/bin/activate.' <br>
+<br> 𝟒 Install dependencies 'pip install -r requirements.txt.' <br>
+<br> 𝟓 Verify that the 'inventory.yml' file contains the desired IPs and credentials for the routers <br>
+<br> 𝟔 Apply the playbook './run_playbook.sh' <br>
 
 # ➨ ⋆˙⟡ If using Linux distros:
-<br> ⁰ Set up environment <br>
-<br> ¹ Navigate to cd ~/ansible <br>
-<br> ² If not present, create a virtual environment 'python3 -m venv venv.' <br>
-<br> ³ Activate the virtual environment 'source venv/bin/activate.' <br>
-<br> ⁴ Install dependencies 'pip install -r requirements.txt.' <br>
-<br> ⁵ Verify that the 'inventory.yml' file contains the desired IPs and credentials for the routers <br>
-<br> ⁶ Apply the playbook './run_playbook.sh' <br>
+<br> 𝟎 Set up environment <br>
+<br> 𝟏 Navigate to cd ~/ansible <br>
+<br> 𝟐 If not present, create a virtual environment 'python3 -m venv venv.' <br>
+<br> 𝟑 Activate the virtual environment 'source venv/bin/activate.' <br>
+<br> 𝟒 Install dependencies 'pip install -r requirements.txt.' <br>
+<br> 𝟓 Verify that the 'inventory.yml' file contains the desired IPs and credentials for the routers <br>
+<br> 𝟔 Apply the playbook './run_playbook.sh' <br>
 
-# Note: To test without applying changes, run './run_playbook.sh --check'
+<br> Note: To test without applying changes, run './run_playbook.sh --check' <br>
 
 ## Basic troubleshooting ##
 <br> ⟡ If the playbook fails: Check 'inventory.yml' + ensure routers are reachable; <br>
