@@ -1,4 +1,4 @@
-This Readme is available in English, Portuguese and Spanish; PLease switch to the most comfortable to you :)
+This Readme is available in English, Portuguese and Spanish; Please switch to the most comfortable to you :)
 
 
 ## ⋆˙⟡ ENGLISH ⋆˙⟡ ##
