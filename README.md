@@ -58,7 +58,7 @@ Still praying. (IT WORKED!)
 
 ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
-⋆˙⟡ PORTUGUÊS ⋆˙⟡
+## ⋆˙⟡ PORTUGUÊS ⋆˙⟡ ##
 
 Este projeto automatiza a configuração de roteadores Cisco 4200 Series, que eu chamei de router2 e router3, com interfaces, roteamento OSPF, SSH e autenticação de utilizadores.
 
@@ -119,7 +119,7 @@ Este projeto automatiza a configuração de roteadores Cisco 4200 Series, que eu
 
 ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
-⋆˙⟡ ESPAÑOL ⋆˙⟡
+## ⋆˙⟡ ESPAÑOL ⋆˙⟡ ##
 
 Este proyecto automatiza la configuración de routers Cisco 4200 Series, que llamé router2 y router3, con interfaces, enrutamiento OSPF, SSH y autenticación de usuarios.
 
